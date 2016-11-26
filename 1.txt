@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 aav1
 a1
 aaaaaaaafaffaf311
@@ -5,3 +6,6 @@ t1
 
 t3
 
+=======
+a1
+>>>>>>> parent of 9c058d2... v1
